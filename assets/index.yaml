@@ -12,12 +12,12 @@ entries:
       catalog.cattle.io/ui-component: plugins
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-06-14T06:24:54.648804535Z"
+    created: "2023-06-14T06:24:52.382788549Z"
     description: test plugin
-    digest: eb45fca553a0445b1fed6dd8c7ed29a42951070f7c3e45ccbc8c85e3f3760ec0
+    digest: e0ddfc5ea02933ca70be15b065fed25b099c6bcfddda29a209d3a6df9c76f595
     name: test
     type: application
     urls:
     - assets/test/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-14T06:24:54.647987834Z"
+generated: "2023-06-14T06:24:52.381566145Z"
